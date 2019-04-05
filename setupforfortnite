@@ -1,0 +1,105 @@
+<html>
+<head>
+<style>
+body{
+background-color:rgb(27, 168, 219);
+}
+h2{
+text-align: center;
+color:red;
+font-size:40px;
+}
+.videos{
+
+font-size:30px;
+color:rgb(176, 52, 153);
+
+}
+
+li{
+font-size:18px;
+color:rgb(176, 52, 153);
+font-style:droid sans;
+}
+</style>
+</head>
+<body>
+<h2>controller binds</h2>
+<p class=videos>
+1:
+<iframe width="400" height="215" src="https://www.youtube.com/embed/W4jsF8GJqWo" frameborder="10" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+2:
+<iframe width="400" height="215" src="https://www.youtube.com/embed/KGnnjA1VoUg" frameborder="10" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+3:
+<iframe width="400" height="215" src="https://www.youtube.com/embed/pl6FtBUut_0" frameborder="10" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 4:
+<iframe width="400" height="215" src="https://www.youtube.com/embed/TUEHgzulwYA" frameborder="10" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+5:
+<iframe width="400" height="215" src="https://www.youtube.com/embed/m5zlpa8BbNQ" frameborder="10" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+6:
+<iframe width="400" height="215" src="https://www.youtube.com/embed/RfH-0GStlTY" frameborder="10" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 7:
+ <iframe width="400" height="215" src="https://www.youtube.com/embed/gsnWJJR4Nwo" frameborder="10" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 8:
+ <iframe width="400" height="215" src="https://www.youtube.com/embed/bWj75jTDEkA" frameborder="10" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 9:
+ <iframe width="400" height="215" src="https://www.youtube.com/embed/_MMzECZ0Fw0" frameborder="10" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+ 
+ 
+ </p>
+ 
+
+
+<p>
+<ol>
+  <li><a  target="_blank" href="https://www.youtube.com/channel/UCu2pLbxy3QNbC-kcz7crV2g/featured">Gronky</a></li>
+  <li><a target="_blank" href="https://www.youtube.com/channel/UClRhBEk6jWCU1Fyj_sjQ8kw">Rodey Bros</a></li>
+  <li><a target="_blank" href="https://www.youtube.com/user/Matroix">Ali-A</a></li>
+  <li><a target="_blank" href="https://www.youtube.com/user/Marathxnz">Ghost Adydan</a></li>
+  <li><a target="_blank" href="https://www.youtube.com/channel/UC4ZPHJ8KUkMlR8dTzcBsOsg">Trypal</a></li>
+  <li><a target="_blank" href="https://www.youtube.com/channel/UCh5fwwlEPTqN68kZYL8nK5A">FaZe Sway</a></li>
+  <li><a target="_blank" href="https://www.youtube.com/channel/UCbkMvtBNkpIbHqQdKHJSb5A">GhostNinja</a></li>
+  <li><a target="_blank" href="https://www.youtube.com/channel/UC_hPpgC6oqxtU4697IYfQOw">Beyond</a></li>
+  <li><a target="_blank" href="https://www.youtube.com/channel/UClRhBEk6jWCU1Fyj_sjQ8kw">Rodey Bros</a></li>
+  
+</ol>
+</p>
+<h2>how to build</h2>
+<p class=videos>
+1:
+<iframe width="400" height="215" src="https://www.youtube.com/embed/gU4b-H1x2pU" frameborder="10" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+2:
+<iframe width="400" height="215" src="https://www.youtube.com/embed/YeAxKwo9OP8" frameborder="10" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+3:
+<iframe width="400" height="215" src="https://www.youtube.com/embed/bjMqeYBD9lE" frameborder="10" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+4:
+<iframe width="400" height="215" src="https://www.youtube.com/embed/N_1WVpM_ghE" frameborder="10" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+5:
+<iframe width="400" height="215" src="https://www.youtube.com/embed/0ikp_dt9Bg8" frameborder="10" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+6:
+<iframe width="400" height="215" src="https://www.youtube.com/embed/KyaECl2Pwwg" frameborder="10" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+7:
+<iframe width="400" height="215" src="https://www.youtube.com/embed/CWbmElHJixI" frameborder="10" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+8:
+<iframe width="400" height="215" src="https://www.youtube.com/embed/Rw1GKzlgApg" frameborder="10" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+9:
+<iframe width="400" height="215" src="https://www.youtube.com/embed/-SkoPL-CrVA" frameborder="10" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</p>
+<p>
+	<ol>
+		<li><a target="_blank" href="https://www.youtube.com/channel/UCXiSwbBNanaYm_a90h0SfHQ">Selage</a></li>
+		<li><a target="_blank" href="https://www.youtube.com/channel/UCIJ2TbwYI9P2X3OCOk6YkxQ">ImTrunks</a></li>
+		<li><a target="_blank" href="https://www.youtube.com/channel/UCIyWmN9PzC988Lu1Yjvxkyg">Geerzy</a></li>
+		<li><a target="_blank" href="https://www.youtube.com/channel/UClRhBEk6jWCU1Fyj_sjQ8kw">Rodey Bros</a></li>
+		<li><a target="_blank" href="https://www.youtube.com/channel/UCW3VjZFJCdBJyvaoaTgacyg">itsJerian</a></li>
+		<li><a target="_blank" href="https://www.youtube.com/channel/UCu2pLbxy3QNbC-kcz7crV2g">Gronky</a></li>
+		<li><a target="_blank" href="https://www.youtube.com/channel/UCu2pLbxy3QNbC-kcz7crV2g">Gronky</a></li>
+		<li><a target="_blank" href="https://www.youtube.com/channel/UCW3VjZFJCdBJyvaoaTgacyg">itsJerian</a></li>
+		<li> <a target="_blank" href="https://www.youtube.com/channel/UCN_kkuZ1b1emUHq2Fz3DWuQ">thatdenverguy</a></li>
+	</ol>
+</p>
+</body>
+</html>
+
